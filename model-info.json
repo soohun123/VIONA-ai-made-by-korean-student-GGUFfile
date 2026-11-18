@@ -1,0 +1,14 @@
+{
+  "display_name": "VIONA AI 1.5B",
+  "filename": "VIONA-ai-1.5B-Q4_K_M.gguf",
+  "size_bytes": 1117320768,
+  "sha256": "cc324af070c2ecbfd324a30884d2f951a7ff756aba85cb811a6ec436933bb046",
+  "base_model": "Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF",
+  "source_revision": "f86cb2c1fa58255f8052cc32aeede1b7482d4361",
+  "quantization": "Q4_K_M",
+  "gguf_version": 3,
+  "lora_merged": false,
+  "weights_modified": false,
+  "license": "Apache-2.0",
+  "pocketpal_device_tested": false
+}
